@@ -1,0 +1,17 @@
+.container {
+      display: flex;
+      height: 100vh;
+      gap: 1rem;
+}
+
+.A {
+      background-color: pink;
+      width: 25vh;
+      border: 1px solid;
+}
+
+.B {
+      background-color: blueviolet;
+      width: 75vh;
+      border: 1px solid;
+}
